@@ -14,7 +14,7 @@ The files are available in this repository, in various formats and sizes.
 
 ![Wikimedia Commons logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/178px-Commons-logo.svg.png)
 
-The files are also available in [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JavaScript_mascot.svg).
+The files are also available in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:JavaScript_mascot).
 
 ## Gallery
 
