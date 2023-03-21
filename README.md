@@ -6,7 +6,7 @@ A mascot for JavaScript.
 
 ## Description
 
-A yellow creature with three eyes and one arm, holding a JavaScript flag. It is a distant relative of the Lisp mascot.
+A yellow creature with three eyes and one arm, holding a JavaScript flag. A distant relative of the Lisp mascot.
 
 ## Files
 
