@@ -21,26 +21,31 @@ The files are also available in [Wikimedia Commons](https://commons.wikimedia.or
 Send us your own creations at javascriptmascot@gmail.com or open a pull request in this repository!
 
 <img src="./artwork/javascript_mascot_bliss.png" width="500px"/>
+
 *Bliss*
 <br>
 <br>
 
 <img src="./artwork/javascript_mascot_typescript.svg" width="500px"/>
+
 *Holding a TypeScript flag*
 <br>
 <br>
 
 <img src="./artwork/javascript_mascot_react.svg" width="500px"/>
+
 *Holding a React flag*
 <br>
 <br>
 
 <img src="./artwork/javascript_mascot_transgender_pride_flag.svg" width="500px"/>
+
 *On the transgender pride flag*
 <br>
 <br>
 
 <img src="./artwork/ascii.png" width="500px"/>
+
 *As ASCII art (it can be cound in the file javascript_mascot_ascii.txt)*
 
 ## Contribution
