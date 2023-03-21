@@ -16,6 +16,25 @@ The files are available in this repository, in various formats and sizes.
 
 The files are also available in [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JavaScript_mascot.svg).
 
+## Gallery
+
+Send us your own creations at javascriptmascot@gmail.com or open a pull request in this repository!
+
+<img src="./artwork/javascript_mascot_bliss.png" width="500px"/>
+
+
+![]()
+
+
+![]()
+
+
+![]()
+
+
+![]()
+
+
 ## Contribution
 
 The mascot belongs to the community. Any contributions and any ideas or proposals for improvements or modifications are more than welcome!
@@ -33,5 +52,3 @@ The mascot belongs to the community. Any contributions and any ideas or proposal
 **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
 
 This license is acceptable for Free Cultural Works. The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-![Free Cultural Works logo](https://creativecommons.org/images/deed/FreeCulturalWorks_seal_x2.jpg)
