@@ -38,12 +38,6 @@ Send us your own creations at javascriptmascot@gmail.com or open a pull request 
 <br>
 <br>
 
-<img src="./artwork/javascript_mascot_transgender_pride_flag.svg" width="500px"/>
-
-*On the transgender pride flag*
-<br>
-<br>
-
 <img src="./artwork/ascii.png" width="500px"/>
 
 *As ASCII art (it can be cound in the file javascript_mascot_ascii.txt)*
