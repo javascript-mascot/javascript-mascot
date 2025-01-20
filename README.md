@@ -1,6 +1,6 @@
-![JavaScript Mascot](952px-JavaScript_mascot.png)
-
 # JavaScript Mascot
+
+![JavaScript Mascot](952px-JavaScript_mascot.png)
 
 A mascot for JavaScript.
 
@@ -10,45 +10,45 @@ A yellow creature with three eyes and one arm, holding a JavaScript flag. A dist
 
 ## Files
 
-The files are available in this repository, in various formats and sizes.
-
-![Wikimedia Commons logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/178px-Commons-logo.svg.png)
-
-The files are also available in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:JavaScript_mascot).
+The files are available in various formats and sizes.
 
 ## Gallery
 
-Send us your own creations at javascriptmascot@gmail.com or open a pull request in this repository!
+Send us your own creations at <javascriptmascot@gmail.com> or open a pull request in this repository!
 
-<img src="./artwork/javascript_mascot_bliss.png" width="500px"/>
+<img src="./other/javascript_mascot_bliss.png" width="500px"/>
 
 *Bliss*
 <br>
 <br>
 
-<img src="./artwork/javascript_mascot_typescript.svg" width="500px"/>
+<img src="./other/javascript_mascot_typescript.svg" width="500px"/>
 
 *Holding a TypeScript flag*
 <br>
 <br>
 
-<img src="./artwork/javascript_mascot_react.svg" width="500px"/>
+<img src="./other/javascript_mascot_react.svg" width="500px"/>
 
 *Holding a React flag*
 <br>
 <br>
 
-<img src="./artwork/javascript_mascot_transgender_pride_flag.svg" width="500px"/>
+<img src="./other/javascript_mascot_transgender_pride_flag.svg" width="500px"/>
 
 *On the transgender pride flag*
 <br>
 <br>
 
-<img src="./artwork/ascii.png" width="500px"/>
+<img src="./other/ascii.png" width="500px"/>
 
 *As ASCII art (it can be cound in the file javascript_mascot_ascii.txt)*
 
-## Contribution
+## Fan Art
+
+![Fan art 01](./fan-art/fan-01-512.png)
+
+## Contributing
 
 The mascot belongs to the community. Any contributions and any ideas or proposals for improvements or modifications are more than welcome!
 
