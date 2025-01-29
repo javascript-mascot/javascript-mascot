@@ -48,6 +48,9 @@ Send us your own creations at <javascriptmascot@gmail.com> or open a pull reques
 
 ![Fan art 01](./fan-art/fan-01-512.png)
 
+# Pixel Art
+![Pixel Art 01](./pixel-art/640px-pixel-art-js-mascot.png)
+
 ## Contributing
 
 The mascot belongs to the community. Any contributions and any ideas or proposals for improvements or modifications are more than welcome!
