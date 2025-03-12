@@ -1,6 +1,6 @@
 # JavaScript Mascot
 
-![JavaScript Mascot](952px-JavaScript_mascot.png)
+![JavaScript Mascot](javascript-mascot-952px.png)
 
 A mascot for JavaScript.
 
@@ -12,48 +12,63 @@ A yellow creature with three eyes and one arm, holding a JavaScript flag. A dist
 
 The files are available in various formats and sizes.
 
+## Contributing
+
+The mascot belongs to the community.
+
+Our mascot is a symbol of our community, and we’d love to hear your ideas, suggestions, and any improvements or changes you think could make it better!
+
+If you've created any artwork featuring the mascot we encourage you to share them with us!
+
+Send us your creations at <javascriptmascot@gmail.com> or open a pull request in this repository!
+
 ## Gallery
 
-Send us your own creations at <javascriptmascot@gmail.com> or open a pull request in this repository!
-
-<img src="./other/javascript_mascot_bliss.png" width="500px"/>
+<img src="./other/javascript-mascot-bliss.png" width="500px"/>
 
 *Bliss*
 <br>
 <br>
 
-<img src="./other/javascript_mascot_typescript.svg" width="500px"/>
+<img src="./other/javascript-mascot-typescript.svg" width="500px"/>
 
 *Holding a TypeScript flag*
 <br>
 <br>
 
-<img src="./other/javascript_mascot_react.svg" width="500px"/>
+<img src="./other/javascript-mascot-react.svg" width="500px"/>
 
 *Holding a React flag*
 <br>
 <br>
 
-<img src="./other/javascript_mascot_transgender_pride_flag.svg" width="500px"/>
+<img src="./other/javascript-mascot-transgender-pride-flag.svg" width="500px"/>
 
 *On the transgender pride flag*
 <br>
 <br>
 
-<img src="./other/ascii.png" width="500px"/>
+<img src="./other/javascript-mascot-ascii-light.png" width="500px"/>
 
 *As ASCII art (it can be cound in the file javascript_mascot_ascii.txt)*
 
 ## Fan Art
 
-![Fan art 01](./fan-art/fan-01-512.png)
+![Fan art 01](./fan-art/javascript-mascot-fan-art-victory-512px.png)
+
+*Victory for JavaScript!*
+<br>
+<br>
 
 # Pixel Art
-![Pixel Art 01](./pixel-art/640px-pixel-art-js-mascot.png)
 
-## Contributing
+![Pixel Art 01](./pixel-art/javascript-mascot-pixel-art-640px.png)
 
-The mascot belongs to the community. Any contributions and any ideas or proposals for improvements or modifications are more than welcome!
+# Other
+
+<img src="./other/javascript-mascot-tshirt.png" width="500px"/>
+
+<img src="./javascript-mascot-with-logo.svg" width="500px"/>
 
 ## License
 
