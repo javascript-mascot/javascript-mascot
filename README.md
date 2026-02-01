@@ -74,7 +74,7 @@ Send us your creations at <javascriptmascot@gmail.com> or open a pull request in
 
 **[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)**
 
-![License logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/320px-CC_BY-SA_icon.svg.png)
+![License logo](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
 
 **You are free to:**
 
