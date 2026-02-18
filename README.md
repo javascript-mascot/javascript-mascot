@@ -56,7 +56,7 @@ Send us your creations at <javascriptmascot@gmail.com> or open a pull request in
 
 ![Fan art 01](./fan-art/javascript-mascot-fan-art-victory-512px.png)
 
-*Victory for JavaScript!*
+*Victory for JavaScript! Created by [Gensou](https://somewhereingensokyo.neocities.org/)*
 <br>
 <br>
 
